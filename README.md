@@ -50,5 +50,11 @@ To analyze a dataset of Google Play Store apps and extract meaningful insights t
 - **Facebook** App has the maximum no of reviews
 - Apps in the **Books_and_reference** and **Business** categories have the most no of installs.
 - There is a strong positive correlation between the no of reviews and the no of installs
+-
+- ## 📎 Files
+
+- `google_Playstore1.ipynb` – Jupyter notebook with full EDA workflow.
+- `README.md` – This file.
+- gooleplaystore.csv- Dataset
 ---
 
