@@ -6,7 +6,7 @@ Exploratory Data Analysis (EDA) on apps listed in the Google Play Store to ident
 
 ## 📌 Objective
 
-To analyze a dataset of Google Play Store apps and extract meaningful insights that can help developers, marketers, or businesses make data-driven decisions.
+To analyze a dataset of Google Play Store apps and extract meaningful insights that can help make data-driven decisions.
 
 ---
 
@@ -46,19 +46,9 @@ To analyze a dataset of Google Play Store apps and extract meaningful insights t
 - **Rating distribution** is slightly left-skewed with most apps rated between 4.0–4.5.
 - **Number of installs** varies heavily across categories; a few apps have over a billion downloads.
 - Some apps have suspiciously high reviews or installs, indicating possible outliers or fake data.
-
+- The **Family** and **Game** are the two most popular categories as more than 66% of the total apps belong to these categories.
+- **Facebook** App has the maximum no of reviews
+- Apps in the **Books_and_reference** and **Business** categories have the most no of installs.
+- There is a strong positive correlation between the no of reviews and the no of installs
 ---
 
-## 📎 Files
-
-- `google_Playstore1.ipynb` – Jupyter notebook with full EDA workflow.
-- `README.md` – This file.
-
----
-
-## 📷 Sample Visualizations
-
-You can save plots from your notebook using:
-
-```python
-plt.savefig("rating_distribution.png")
