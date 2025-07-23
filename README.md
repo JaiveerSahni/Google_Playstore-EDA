@@ -62,6 +62,6 @@ To analyze a dataset of Google Play Store apps and extract meaningful insights t
 ### Free vs Paid App Ratings
 ![Free vs Paid Ratings](images/free_vs_paid_ratings.png)
 
-
+![Heat Map](images/heatmap.png)
 ---
 
