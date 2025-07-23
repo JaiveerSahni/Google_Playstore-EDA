@@ -57,6 +57,11 @@ To analyze a dataset of Google Play Store apps and extract meaningful insights t
 - `README.md` – This file.
 - gooleplaystore.csv- Dataset
 
+ ## 📊 Visualizations
+
+### Free vs Paid App Ratings
+![Free vs Paid Ratings](images/free_vs_paid_ratings.png)
+
 
 ---
 
