@@ -56,5 +56,9 @@ To analyze a dataset of Google Play Store apps and extract meaningful insights t
 - `google_Playstore1.ipynb` – Jupyter notebook with full EDA workflow.
 - `README.md` – This file.
 - gooleplaystore.csv- Dataset
+
+  ## Images
+  ![Free vs Paid Ratings](images/free_vs_paid_ratings.png)
+
 ---
 
